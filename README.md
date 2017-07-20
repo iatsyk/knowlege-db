@@ -9,3 +9,5 @@
     * [Spock](https://github.com/iatsyk/knowlege-db/wiki/Spock)
 1. [Java](https://github.com/iatsyk/knowlege-db/wiki/Java)
     * [Working with DB](https://github.com/iatsyk/knowlege-db/wiki/Working-with-DB)
+1. [Php](https://github.com/iatsyk/knowlege-db/wiki/Php)
+    * [Installation](https://github.com/iatsyk/knowlege-db/wiki/Php-install)
